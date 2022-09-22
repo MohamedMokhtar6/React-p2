@@ -1,0 +1,23 @@
+.box{
+    height: 200px;
+    background-color: rgb(226, 229, 232);
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    height: fit-content
+
+}
+.img{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.makeBord{
+    border-bottom: 1px solid rgb(135, 135, 135);
+}
